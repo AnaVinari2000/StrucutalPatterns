@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{4D159374-5C1C-4727-8BF9-66BE7919A83B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{213E0F7A-7525-4E7A-96D3-696E80E74B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{07A90D46-3CC9-4AA7-AAE3-BC45C0FC88D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D159374-5C1C-4727-8BF9-66BE7919A83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D159374-5C1C-4727-8BF9-66BE7919A83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D159374-5C1C-4727-8BF9-66BE7919A83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D159374-5C1C-4727-8BF9-66BE7919A83B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213E0F7A-7525-4E7A-96D3-696E80E74B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213E0F7A-7525-4E7A-96D3-696E80E74B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213E0F7A-7525-4E7A-96D3-696E80E74B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213E0F7A-7525-4E7A-96D3-696E80E74B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A90D46-3CC9-4AA7-AAE3-BC45C0FC88D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A90D46-3CC9-4AA7-AAE3-BC45C0FC88D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A90D46-3CC9-4AA7-AAE3-BC45C0FC88D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A90D46-3CC9-4AA7-AAE3-BC45C0FC88D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C75CE25-0943-4F23-8778-6209ECDE9572}
+	EndGlobalSection
+EndGlobal
